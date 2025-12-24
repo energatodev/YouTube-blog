@@ -2,11 +2,16 @@ body {
     align-items: center;
     font-size: 15pt;
     text-align: center;
+    border-style: dotted;
+    border-spacing: 30px;
+    border-color: #3645EA;
+    border-radius: 20px;
+    background-color: #0E1881;
 }
 .title{
     text-align: center;
     background-color: rgba(105, 116, 230, 1);
-    padding: 100px;
+    padding: 70px;
     font-family: monospace;
     margin: 0px;
     border-top-left-radius: 17px;
@@ -20,11 +25,20 @@ body {
 .p-title{
     background-color: #7B84E7;
     margin: 0px;
-    padding: 50px;
+    padding: 30px;
     border-bottom-right-radius: 17px;
     border-bottom-left-radius: 17px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
 
 
+}
+.div-buttons{
+    border-style: double;
+    border-radius: 20px;
+    border-color: #3645EA;
+    font-size: 30px;
+}
+.original{
+    
 }
