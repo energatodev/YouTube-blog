@@ -16,15 +16,20 @@ body {
     margin: 0px;
     border-top-left-radius: 17px;
     border-top-right-radius: 17px;
+    
 }
 .div-title{
     border-style: solid;
     border-radius: 20px;
     border-color: #4351E4;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
 }
 .p-title{
     background-color: #7B84E7;
     margin: 0px;
+    
     padding: 30px;
     border-bottom-right-radius: 17px;
     border-bottom-left-radius: 17px;
@@ -37,8 +42,44 @@ body {
     border-style: double;
     border-radius: 20px;
     border-color: #3645EA;
+    background-color: #9EA5F7;
     font-size: 30px;
+    margin: 10px;
 }
 .original{
+    border-style: solid;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+.fullscreen{
+    border-style: solid;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+.pt-br{
+    border-style: solid;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+.bug{
+    border-style: solid;
+    border-radius: 20px;
+    
+}
+.btn{
+    margin: 15px;
+    font-size: 30px;
+    border-radius: 10px;
+    border-color: #001E7D;
+    background-color: #3846E0;
+    font-family: monospace;
+    font-style: bold;
+    color: #31C6BC;
+}
+#bottom-text{
+    background-color: #8FAAFF;
+    border-radius: 20px;
+    width: 150px;
+    align-items: center;
     
 }
