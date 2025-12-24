@@ -1,0 +1,30 @@
+body {
+    align-items: center;
+    font-size: 15pt;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    background-color: rgba(105, 116, 230, 1);
+    padding: 100px;
+    font-family: monospace;
+    margin: 0px;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+.div-title{
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #4351E4;
+}
+.p-title{
+    background-color: #7B84E7;
+    margin: 0px;
+    padding: 50px;
+    border-bottom-right-radius: 17px;
+    border-bottom-left-radius: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+
+
+}
