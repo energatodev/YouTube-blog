@@ -66,6 +66,9 @@ body {
     border-radius: 20px;
     
 }
+a{
+    color: #31C6BC;
+}
 .btn{
     margin: 15px;
     font-size: 30px;
