@@ -4,13 +4,14 @@ body {
     text-align: center;
     border-style: dotted;
     border-spacing: 30px;
-    border-color: #3645EA;
+    border-color: #282828;
     border-radius: 20px;
-    background-color: #0E1881;
+    background-color: #000000;
 }
 .title{
     text-align: center;
-    background-color: rgba(105, 116, 230, 1);
+    background-color: #230048;
+    color: #BBBBBB;
     padding: 70px;
     font-family: monospace;
     margin: 0px;
@@ -27,9 +28,9 @@ body {
     margin-top: 10px;
 }
 .p-title{
-    background-color: #7B84E7;
+    background-color: #320064;
     margin: 0px;
-    
+    color: #BBBBBB;
     padding: 30px;
     border-bottom-right-radius: 17px;
     border-bottom-left-radius: 17px;
@@ -41,8 +42,7 @@ body {
 .div-buttons{
     border-style: double;
     border-radius: 20px;
-    border-color: #3645EA;
-    background-color: #9EA5F7;
+    border-color: #6100B6;
     font-size: 30px;
     margin: 10px;
 }
@@ -50,34 +50,50 @@ body {
     border-style: solid;
     border-radius: 20px;
     margin-bottom: 5px;
+    background-color: #282828;
+
 }
 .fullscreen{
     border-style: solid;
     border-radius: 20px;
     margin-bottom: 5px;
+    background-color: #282828;
+
 }
 .pt-br{
     border-style: solid;
     border-radius: 20px;
     margin-bottom: 5px;
+    background-color: #282828;
+
 }
 .bug{
     border-style: solid;
     border-radius: 20px;
-    
+    background-color: #282828;
+
 }
-a{
-    color: #31C6BC;
+.lk{
+    color: #5904AD;
+}
+#git{
+    color: #230046;
+
 }
 .btn{
     margin: 15px;
     font-size: 30px;
     border-radius: 10px;
-    border-color: #001E7D;
-    background-color: #3846E0;
+    border-color: #320064;
+    background-color: #282828;
     font-family: monospace;
     font-style: bold;
-    color: #31C6BC;
+    color: #FFFFFF;
+}
+.txt{
+    color: #5904AD;
+    font-family: fantasy;
+    
 }
 #bottom-text{
     background-color: #8FAAFF;
